@@ -1,0 +1,2 @@
+# Slipe
+Um pet virtual
